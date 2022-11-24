@@ -7,11 +7,4 @@ Git Github Ikinci Gun SUMEYYE BRANCH'I ikinci deneme
 Git Github Ikinci Gun DAGDEVIREN BRANCH'I ilk deneme..........??????????
 Git Github Ucuncu Gun ilk deneme
 Git Github Ucuncu Gun ikinci deneme
-MASTER BRANCH YENI EKLEME
-Git Github Ucuncu Gun SUMEYYE BRANCH ilk deneme
-MASTER BRANCH 2. EKLEME
 SUMEYYE BRANCH 2. ekleme
-Git Github Dorduncu Gun ilk deneme
-MASTER BRANCH 3. EKLEME
-
-
